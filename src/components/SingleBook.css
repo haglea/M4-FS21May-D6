@@ -1,0 +1,39 @@
+div.card {
+    border: transparent;
+    width: 12rem;
+}
+
+div.card:hover {
+    background: #F8F9FA;
+    
+} 
+
+.cardstyle {    
+    color: rgb(119, 119, 119);   
+    position: relative;
+}
+
+.cardimg {
+    object-fit: contain;
+    height: 9rem;
+    width: 9rem;
+    margin: 0.3rem;
+    padding: 0.3rem;
+    background-color: transparent;
+}
+
+.badge {
+    position: absolute;
+    right: 0.5rem;
+    top: 2rem;
+}
+
+small {
+    color: rgb(119, 119, 119);  
+
+}
+
+small:hover {
+    color: black;
+
+}
